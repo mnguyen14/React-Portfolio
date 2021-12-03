@@ -1,4 +1,5 @@
 import React from 'react';
+import "./styles/NavTabs.css";
 
 function NavTabs({ currentPage, handlePageChange }) {
     return (
@@ -19,15 +20,6 @@ function NavTabs({ currentPage, handlePageChange }) {
                     className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
                 >
                     Portfolio
-                </a>
-            </li>
-            <li className="nav-item">
-                <a
-                    href="#contact"
-                    onClick={() => handlePageChange('Contact')}
-                    className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
-                >
-                    Contact
                 </a>
             </li>
             <li className="nav-item">

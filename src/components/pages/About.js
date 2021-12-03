@@ -13,6 +13,9 @@ export default function About() {
         <p>
             This portfolio will continue to grow and change as I hone my web development skills.
         </p>
+        <p>
+            I will also be taking more professional Github and Linkedin photos soon!
+        </p>
     </div>
   );
 }
