@@ -4,8 +4,8 @@ I will be working at fixing this as soon as I can!
 
 These are the pages I got to render with a navbar that has tabs.
 
-![About me tab](https://gyazo.com/6c6a6edbfc8f06cc2608d9f96bfc5f3d)
+![About me tab](./assets/readMeImages/readmeimage1.png)
 
-![Portfolio tab](https://gyazo.com/de6f0e4bb7f08e1139acd5cb81837270)
+![Portfolio tab](./assets/readMeImages/readmeimage2.png)
 
-![Resume tab](https://gyazo.com/99ca736ab9090dd129f4358a546c1719)
+![Resume tab](./assets/readMeImages/readmeimage3.png)
